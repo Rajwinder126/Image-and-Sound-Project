@@ -1,6 +1,6 @@
 ﻿namespace Image_and_Sound_Project
 {
-    partial class Form1
+    partial class ImagesForm
     {
         /// <summary>
         /// Required designer variable.

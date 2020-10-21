@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Image_and_Sound_Project
 {
-    public partial class Form1 : Form
+    public partial class ImagesForm : Form
     {
-        public Form1()
+        public ImagesForm()
         {
             InitializeComponent();
         }
